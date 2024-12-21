@@ -1,6 +1,6 @@
 # Kubernetes
 
-Deployment into Kubernetes is simple using a [generic Helm chart for deploying web apps](https://github.com/benc-uk/helm-charts/tree/master/webapp)
+Deployment into the Kubernetes is simple using a [generic Helm chart for deploying web apps](https://github.com/benc-uk/helm-charts/tree/master/webapp)
 
 Make sure you have [Helm installed first](https://helm.sh/docs/intro/install/)
 
